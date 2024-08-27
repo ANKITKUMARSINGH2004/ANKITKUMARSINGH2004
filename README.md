@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ANKITKUMARSINGH2004
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning PYTHON WITH DATA SCIENCE,SQL,MS-EXCEL.
+- 👋 Hi, I’m @ANKITKUMARSINGH2004.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m Ex-Data Science Intern at Navodita Infotech.
 - 📫 How to reach me - linkedin.com/in/contactankitkumarsingh, Email-ankitkumarsingh20199208@gmail.com
 - ⚡ Fun fact: #BRAINSTORMER
 
